@@ -1,0 +1,1 @@
+../../../_boilerplate/cos/buckets/buckets.tf
